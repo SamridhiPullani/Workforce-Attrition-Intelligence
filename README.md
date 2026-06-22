@@ -74,3 +74,26 @@ streamlit run app.py
 *Samridhi Pullani*
 BCA Student | AI & Data Analytics Enthusiast
 
+# Workforce Emotion & Attrition Intelligence
+
+![Main Dashboard](screenshots/Screenshot%202026-06-22%20123057.png)
+
+## Dashboard Preview
+
+### Main Dashboard
+![Dashboard](screenshots/Screenshot%202026-06-22%20123057.png)
+
+### Workforce Insights
+![Insights](screenshots/Screenshot%202026-06-22%20123622.png)
+
+### Correlation Analysis
+![Heatmap](screenshots/Screenshot%202026-06-22%20123650.png)
+
+### Employee Segmentation
+![Segmentation](screenshots/Screenshot%202026-06-22%20123711.png)
+
+### Feature Importance
+![Features](screenshots/Screenshot%202026-06-22%20123742.png)
+
+### Attrition Prediction
+![Prediction](screenshots/Screenshot%202026-06-22%20123806.png)
